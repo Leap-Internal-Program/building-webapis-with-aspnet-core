@@ -15,7 +15,6 @@ The estimated time is more than eight hours.
 ## Directions
 Code alongside Christian.  Do each quiz at the end of the chapter.  Everything Christian covers is important, but apprentices are not expected to remember many topics discussed by Christian.  The next lesson and project are simplification and revisit the core concepts.
 
-
 Previous topics discussed:
 - What is an API
 - RESTFUL API
