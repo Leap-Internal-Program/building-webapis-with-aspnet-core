@@ -1,4 +1,4 @@
-# Async Programming in C#
+# Building Web APIs With ASP.NET Core
 
 ## Summary
  Christian explains routing and how data is modeled in an ASP.NET Core application. He uses Entity Framework Core for grasping how data models in the project connect to underlying databases. He covers essential topics such as API versioning and CRUD operations
@@ -9,11 +9,11 @@ The estimated time is more than eight hours.
 
 
 ## Resources
-- LinkedIn Learning - [Async Programming in C#](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-3/apis-today)
+- LinkedIn Learning - [Building web apis with ASP.NET core](https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-core-3/)
 - Postman - [Download Postman](https://www.postman.com/downloads/)
 
 ## Directions
-Code alongside Christian.  Do each quiz at the end of the chapter.  Everything Christian covers is important, but apprentices are not expected to remember many topics discussed by Christian.  The next lesson and project are simplification and revisit the core concepts.
+Code alongside Christian.  Do each quiz at the end of the chapter.  Everything Christian covers is important, but this is an exposure lesson and many of the most important topics will be revisited.  Do not try to understand every remark or example by Christian.  The next lesson and project are simplification and revisit the core concepts.
 
 You will only be completing the five chapters.  **Skip chapter six.**
 
